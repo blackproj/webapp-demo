@@ -6,7 +6,7 @@ Web app fully developed in Java from scratch with database support (MVC pattern)
 * Register a new user to access the web app and use its functionalities
     * User password uses random salt, hash SHA-256 and AES-128 as cryptography from Java security
 * Login into the app with or without cookies support. A web filter is used to prevent unauthorized login
-    * User cookie are made from random salt, hash SHA-256 and AES-128 as criptography from Java security
+    * User cookie are made from random salt, hash SHA-256 and AES-128 as cryptography from Java security
     * Session ending automatically after 15 minutes of inactivity
 * Upload plain text file as user project
     * Apache Tika is used as content detection parser and to mitigate Time-of-check to Time-of-use (TOCTTOU)
